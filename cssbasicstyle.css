@@ -1,0 +1,36 @@
+
+        #div1{
+            color: red;
+            font-size: 30px;
+        
+        }
+        p{
+            background-color: azure;
+        }
+  
+ #div2{
+            color: blueviolet;
+            font-size: 60px;
+        
+        }
+
+.big{
+    color:fuchsia;
+    font-size: 30px;
+}
+
+.bold{
+    font-weight: bold
+}
+
+#one{
+    background-color: aqua;
+    padding-left: 20px;
+}
+input[disabled]{
+    font-size:20px;
+    height: 100px;
+}
+input[type="text"]{
+    font-size: 35px;
+}
